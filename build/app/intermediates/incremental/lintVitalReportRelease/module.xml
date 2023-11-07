@@ -1,0 +1,25 @@
+<lint-module
+    format="1"
+    dir="/Users/preashanttimalsina/Desktop/york st john project/fludo/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/Users/preashanttimalsina/Desktop/york st john project/fludo/build/app"
+    bootClassPath="/Users/preashanttimalsina/Library/Android/sdk/platforms/android-31/android.jar:/Users/preashanttimalsina/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

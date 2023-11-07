@@ -1,0 +1,4 @@
+#Tue Nov 07 15:01:33 GMT 2023
+base.0=/Users/preashanttimalsina/Desktop/york st john project/fludo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
